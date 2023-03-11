@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eliaschampi
 - 👀 I’m interested in buld mobile applications, and code backend services
 - 🌱 I’m currently learning flutter, golang and python
-- 💞️ I’m looking to collaborate on aeduca
+- 💞️ I’m looking to collaborate on Aeduca
 - 📫 How to reach me ...
 
 <!---
